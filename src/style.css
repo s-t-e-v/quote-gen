@@ -1,6 +1,7 @@
 body {
     background-color: #DAA520;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
 }
 
 .App {
@@ -18,7 +19,10 @@ h1 {
     min-width: 500px;
     margin: 8em auto;
     padding: 1.5em;
-}
+    }
+    .quote-generator button {
+        font-size: 0.9em;
+    }
 
 .quote {
     font-weight: bold;
