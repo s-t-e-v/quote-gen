@@ -255,3 +255,9 @@ https://github.com/facebook/create-react-app
 
 - https://levelup.gitconnected.com/how-to-create-a-minimal-react-and-parcel-app-in-5-steps-2806fa09a371
 - https://dev.to/egg_jose/how-to-create-a-react-app-without-create-react-app-command-1fgc
+
+
+- https://blog.logrocket.com/modern-api-data-fetching-methods-react/
+- https://stackoverflow.com/questions/60618844/react-hooks-useeffect-is-called-twice-even-if-an-empty-array-is-used-as-an-ar
+- https://stackoverflow.com/questions/61254372/my-react-component-is-rendering-twice-because-of-strict-mode
+- https://stackoverflow.com/questions/72238175/why-useeffect-running-twice-and-how-to-handle-it-well-in-react
